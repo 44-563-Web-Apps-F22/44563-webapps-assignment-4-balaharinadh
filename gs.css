@@ -79,12 +79,15 @@ tr:nth-child(odd) {
 }
 
 
-.navbar-horizontal{
+.navbar-horizontal {
     list-style-type: none;
-    background-color: darkgreen;
+    background-color: beige;
     padding: 40px;
 }
+
 li a,i{
+
     float: left;
     padding: 8px;
+    
 }
