@@ -43,10 +43,12 @@
 }
 .JUL:hover{
     text-shadow: 3px 4px 5px yellowgreen;
+    border: 5px dashed chartreuse;
 
 }
 .ALL:after{
     text-shadow: 4px 5px 6px burlywood;
+    border: 5px dashed lawngreen;
 }
 table{
     border: solid firebrick 3px;
@@ -79,7 +81,7 @@ tr:nth-child(odd) {
 
 .navbar-horizontal{
     list-style-type: none;
-    background-color: darkorange;
+    background-color: darkgreen;
     padding: 40px;
 }
 li a,i{
